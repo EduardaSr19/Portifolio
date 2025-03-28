@@ -10,7 +10,7 @@ Este é o repositório do meu portfólio, um site desenvolvido para apresentar m
 ## 🎯 Funcionalidades
 - Página inicial com uma introdução e apresentação pessoal
 - Seção de projetos com imagens e descrições
-- Contato com formulário e redes sociais
+- Contato com e-mail e CV
 
 ## 📸 Prévia do Projeto
 ![Portfólio](https://github.com/EduardaSr19/Portifolio/blob/main/assets/portifolio-img.png)
