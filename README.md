@@ -18,6 +18,6 @@ Este é o repositório do meu portfólio, um site desenvolvido para apresentar m
 ## 📥 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/EduardaSr19/Portifolio
+   git clone https://github.com/EduardaSr19/Portifolio.git
    ```
 2. Abra o arquivo `index.html` no navegador ou utilize um servidor local para executar funcionalidades dinâmicas.
