@@ -1,6 +1,6 @@
 # 🎨 Meu Portfólio
 
-Este é o repositório do meu portfólio, um site desenvolvido para apresentar meus projetos, habilidades e experiências.
+Este é o repositório do meu portfólio, um site desenvolvido para apresentar meus projetos, habilidades e experiências. https://eduardaramos.tech/
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML, CSS e JavaScript** para estrutura e interatividade
