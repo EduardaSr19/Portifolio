@@ -249,7 +249,7 @@ section#sobre .about p {
             <p>Desenvolvedora Júnior</p>
           </div>
           <div class="actions">
-            <a href="cv-eduarda.pdf" download="">Download CV</a>
+            <a href="CurriculoMaria.pdf" download="">Download CV</a>
             <a href="mailto:mariaeduardaramos1907@gmail.com" target="_blank">Entrar em contato</a>
           </div>
         </div>
